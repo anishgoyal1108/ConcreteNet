@@ -8,7 +8,7 @@
 
 ConcreteNet is a specialized convolutional neural network (CNN) designed to detect and classify structural anomalies in ground-penetrating radar (GPR) images, or radargrams. This repository contains all the source code, training data, and experimental results used in the research paper titled *"ConcreteNet: A Deep Convolutional Neural Network for Deformity Detection and Classification in Ground-Penetrating Radar Images"*. The project leverages a modified AlexNet architecture with a "Network in Network" approach for enhanced feature extraction and classification of structural defects in concrete.
 
-ConcreteNet is built to tackle the challenges of interpreting noisy and complex GPR radargram data for assessing concrete structures. The architecture is based on the "Network in Network" approach, using AlexNet as the foundational model. The dataset used for training and validation is sourced from radar scans of the Georgia Southern Engineering Research Building (ERB) and pre-existing GPR data from the Georgia Department of Transportation (GDOT). Additionally, the project includes a publicly accessible dataset and benchmarks state-of-the-art models like ResNet, MobileNet, and others.
+ConcreteNet is built to tackle the challenges of interpreting noisy and complex GPR radargram data for assessing concrete structures. The dataset used for training and validation is sourced from radar scans of the Georgia Southern Engineering Research Building (ERB) and pre-existing GPR data from the Georgia Department of Transportation (GDOT). Additionally, the project includes a publicly accessible dataset and benchmarks state-of-the-art models like ResNet, MobileNet, and others.
 
 ---
 
@@ -27,7 +27,7 @@ To run this project, you'll need to have the following software installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ConcreteNet.git
+   git clone https://github.com/anishgoyal1108/ConcreteNet.git
    cd ConcreteNet
    ```
 
