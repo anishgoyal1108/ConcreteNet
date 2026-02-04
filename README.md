@@ -151,6 +151,34 @@ python experiments/train_concretenet.py --config config/concretenet.yaml
 
 This project includes YOLOv8-based object detection for locating rebars in GPR images. Two separate models are trained for the different GPR device formats. The dataset is pre-annotated (from `annotations.xml`).
 
+### Setup from Scratch (Fresh Clone)
+
+If you've just cloned the repo and need to recreate the dataset structure and train the models:
+
+1. **Prerequisites**: `annotations.xml` in the project root, and source images in `data/Cleaned/` or `data/GP8000/images/`. The import script searches these locations.
+
+2. **Parse annotations and create train/val split** (80–20):
+   ```bash
+   python import_cvat_annotations.py
+   ```
+   This reads `annotations.xml`, converts Pascal VOC boxes to YOLO format, and writes to `data/GP8000/images/train`, `data/GP8000/images/val`, `data/GP8000/labels/train`, `data/GP8000/labels/val`.
+
+   For custom paths:
+   ```bash
+   python import_cvat_annotations.py --annotations annotations.xml --images data/GP8000/images --output data/GP8000 --split 0.8
+   ```
+
+3. **Train the model**:
+   ```bash
+   python train_models.py --model gp8000
+   ```
+   Trained weights are saved to `runs/detect/gp8000_rebar/weights/best.pt`. The desktop app and `detect_rebars.py` expect this path.
+
+   To train both GP8000 and GSSI:
+   ```bash
+   python train_models.py --model both
+   ```
+
 ### Training Rebar Detection Models
 
 ```bash
