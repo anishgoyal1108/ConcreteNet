@@ -1,0 +1,128 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.idea
+*.iml
+
+# VSCode
+.vscode/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Data files (ignore large or intermediate data files, but not important ones)
+*.dat
+*.npz
+*.npy
+
+# Models and checkpoints
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# TensorBoard logs
+logs/
+events.out.tfevents.*
+
+# LaTeX auxiliary and intermediate files
+mainNotes.bib
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Backup and swap files
+*~
+*.swp
+*.swo
+*.bak
+*.backup
+
+# ConcreteNet project outputs
+detection_results/
+contour_exports/
+runs/
+*.project.json
+
+# Cursor IDE / debug
+.cursor/

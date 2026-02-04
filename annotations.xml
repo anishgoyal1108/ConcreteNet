@@ -1,0 +1,2199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1985622</id>
+      <name>Rebar Labeling</name>
+      <size>48</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-02-01 13:25:00.183473+00:00</created>
+      <updated>2026-02-04 12:55:43.031290+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>47</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3558771</id>
+          <start>0</start>
+          <stop>47</stop>
+          <url>https://app.cvat.ai/api/tasks/1985622/dataset/export/api/jobs/3557977</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>anishgoyal1108</username>
+        <email>anishgoyal1108@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>rebar</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-02-04 12:56:13.297620+00:00</dumped>
+  </meta>
+  <image id="0" name="image10.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="1201.20" ytl="121.59" xbr="1227.33" ybr="237.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2318.75" ytl="140.43" xbr="2348.98" ybr="287.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2268.21" ytl="133.35" xbr="2299.38" ybr="277.88" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2219.61" ytl="138.10" xbr="2252.20" ybr="273.16" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2167.65" ytl="141.37" xbr="2203.55" ybr="281.66" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2118.05" ytl="138.07" xbr="2152.53" ybr="276.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2069.40" ytl="147.04" xbr="2102.47" ybr="272.68" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2027.84" ytl="149.88" xbr="2050.98" ybr="266.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1978.71" ytl="152.71" xbr="2005.17" ybr="260.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1930.92" ytl="139.72" xbr="1955.26" ybr="238.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1881.52" ytl="141.13" xbr="1908.34" ybr="235.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1830.01" ytl="144.66" xbr="1860.00" ybr="244.16" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1782.38" ytl="142.90" xbr="1809.90" ybr="241.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1732.98" ytl="142.19" xbr="1760.86" ybr="244.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1686.76" ytl="141.49" xbr="1713.22" ybr="236.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1639.48" ytl="143.25" xbr="1665.59" ybr="234.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1592.69" ytl="152.21" xbr="1615.14" ybr="246.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1542.07" ytl="152.21" xbr="1567.79" ybr="239.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1493.49" ytl="154.66" xbr="1517.99" ybr="275.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1441.65" ytl="135.88" xbr="1469.00" ybr="231.00" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1390.62" ytl="120.77" xbr="1423.68" ybr="245.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1341.63" ytl="109.34" xbr="1376.75" ybr="233.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1296.72" ytl="112.20" xbr="1323.26" ybr="226.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1251.41" ytl="113.83" xbr="1275.50" ybr="227.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1156.29" ytl="137.92" xbr="1175.48" ybr="235.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1058.13" ytl="126.00" xbr="1073.81" ybr="248.39" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="24.86" ytl="171.41" xbr="61.89" ybr="393.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1007.83" ytl="126.70" xbr="1028.73" ybr="251.00" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="862.15" ytl="142.60" xbr="883.05" ybr="235.68" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="815.12" ytl="146.50" xbr="834.06" ybr="248.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="716.47" ytl="147.80" xbr="738.03" ybr="274.22" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1105.81" ytl="133.11" xbr="1124.76" ybr="242.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="959.48" ytl="140.95" xbr="979.74" ybr="240.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="911.14" ytl="141.61" xbr="932.70" ybr="238.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="765.47" ytl="157.94" xbr="786.37" ybr="262.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="664.87" ytl="154.02" xbr="689.04" ybr="248.09" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="617.83" ytl="158.59" xbr="639.39" ybr="257.89" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="565.57" ytl="161.86" xbr="594.31" ybr="281.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="517.88" ytl="159.90" xbr="543.36" ybr="287.94" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="468.89" ytl="172.96" xbr="496.33" ybr="282.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="419.89" ytl="170.35" xbr="447.98" ybr="287.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="368.29" ytl="168.39" xbr="400.95" ybr="293.82" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="316.03" ytl="159.24" xbr="352.61" ybr="340.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="73.58" ytl="167.51" xbr="112.56" ybr="387.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="263.70" ytl="142.37" xbr="308.04" ybr="361.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="215.84" ytl="151.92" xbr="254.82" ybr="352.65" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="167.12" ytl="163.61" xbr="210.00" ybr="387.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="122.30" ytl="173.36" xbr="155.43" ybr="383.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2365.04" ytl="145.15" xbr="2394.32" ybr="274.57" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="image11.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="23.29" ytl="123.80" xbr="50.69" ybr="291.01" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2401.21" ytl="81.21" xbr="2430.30" ybr="272.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2353.16" ytl="74.88" xbr="2383.51" ybr="320.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2303.20" ytl="76.78" xbr="2334.19" ybr="302.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2254.51" ytl="86.27" xbr="2286.76" ybr="298.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2206.46" ytl="98.28" xbr="2236.18" ybr="301.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2153.97" ytl="128.00" xbr="2183.69" ybr="285.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2116.67" ytl="104.60" xbr="2145.75" ybr="305.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2071.77" ytl="128.00" xbr="2098.96" ybr="300.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2021.19" ytl="121.00" xbr="2050.90" ybr="297.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1970.60" ytl="131.16" xbr="2000.32" ybr="270.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1920.01" ytl="126.10" xbr="1952.89" ybr="264.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1872.59" ytl="132.43" xbr="1907.37" ybr="288.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1822.63" ytl="130.53" xbr="1856.15" ybr="297.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1773.31" ytl="127.37" xbr="1808.09" ybr="303.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1726.52" ytl="124.84" xbr="1756.87" ybr="300.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1675.30" ytl="121.04" xbr="1707.55" ybr="341.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1625.98" ytl="130.53" xbr="1656.33" ybr="336.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1578.56" ytl="126.10" xbr="1607.01" ybr="326.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1531.13" ytl="126.74" xbr="1557.06" ybr="344.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1482.44" ytl="121.68" xbr="1510.90" ybr="367.02" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1429.96" ytl="117.25" xbr="1463.47" ybr="377.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1383.17" ytl="119.15" xbr="1411.62" ybr="379.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1338.27" ytl="125.47" xbr="1369.89" ybr="351.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1288.95" ytl="128.00" xbr="1317.41" ybr="308.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="65.33" ytl="121.91" xbr="94.14" ybr="307.07" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1239.00" ytl="130.53" xbr="1268.72" ybr="296.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1188.41" ytl="124.84" xbr="1218.76" ybr="291.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1134.66" ytl="120.41" xbr="1175.76" ybr="288.61" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1091.03" ytl="114.72" xbr="1124.55" ybr="279.76" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1040.45" ytl="95.75" xbr="1072.70" ybr="263.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="990.49" ytl="85.00" xbr="1024.01" ybr="263.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="941.17" ytl="80.58" xbr="974.69" ybr="265.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="891.85" ytl="76.15" xbr="924.10" ybr="272.17" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="845.06" ytl="103.34" xbr="875.41" ybr="276.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="795.10" ytl="83.74" xbr="824.19" ybr="266.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="745.78" ytl="78.05" xbr="777.40" ybr="289.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="699.62" ytl="79.94" xbr="729.97" ybr="285.45" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="650.93" ytl="91.33" xbr="679.39" ybr="279.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="600.98" ytl="98.28" xbr="630.07" ybr="279.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="553.87" ytl="118.28" xbr="579.37" ybr="268.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="507.10" ytl="120.64" xbr="526.94" ybr="274.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="459.40" ytl="122.53" xbr="478.76" ybr="273.68" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="412.17" ytl="118.28" xbr="429.64" ybr="285.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="360.68" ytl="122.53" xbr="381.46" ybr="298.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="312.50" ytl="125.83" xbr="334.23" ybr="294.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="264.80" ytl="129.61" xbr="283.22" ybr="290.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="216.62" ytl="122.06" xbr="236.46" ybr="294.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="167.97" ytl="125.83" xbr="186.39" ybr="280.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="114.59" ytl="120.64" xbr="139.15" ybr="256.20" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="image13.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="2383.18" ytl="164.24" xbr="2417.20" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="25.48" ytl="105.59" xbr="59.50" ybr="349.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="67.71" ytl="122.02" xbr="106.42" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="114.63" ytl="125.54" xbr="153.34" ybr="308.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="162.72" ytl="132.57" xbr="202.60" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="217.85" ytl="112.63" xbr="253.04" ybr="356.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="263.60" ytl="118.50" xbr="302.30" ybr="336.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="314.04" ytl="117.32" xbr="350.40" ybr="308.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="364.47" ytl="117.32" xbr="397.32" ybr="314.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="409.05" ytl="112.63" xbr="444.24" ybr="320.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="460.66" ytl="109.11" xbr="493.50" ybr="283.89" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="505.23" ytl="119.67" xbr="538.07" ybr="283.89" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="556.84" ytl="120.84" xbr="590.86" ybr="286.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="606.11" ytl="126.71" xbr="638.95" ybr="295.62" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="649.51" ytl="136.09" xbr="684.70" ybr="297.96" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="699.95" ytl="132.57" xbr="735.14" ybr="299.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="748.04" ytl="130.23" xbr="782.06" ybr="313.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="797.30" ytl="141.96" xbr="828.98" ybr="336.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="841.88" ytl="147.82" xbr="879.41" ybr="344.88" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="894.66" ytl="151.34" xbr="931.03" ybr="348.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="946.27" ytl="138.44" xbr="977.94" ybr="334.33" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="993.19" ytl="127.88" xbr="1026.04" ybr="309.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1041.29" ytl="127.88" xbr="1075.30" ybr="313.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1087.03" ytl="119.67" xbr="1125.74" ybr="316.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1135.12" ytl="127.88" xbr="1169.14" ybr="301.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1183.22" ytl="120.84" xbr="1223.10" ybr="308.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1236.00" ytl="120.84" xbr="1265.33" ybr="320.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1278.23" ytl="118.50" xbr="1316.94" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1331.01" ytl="112.63" xbr="1361.51" ybr="321.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1377.93" ytl="114.98" xbr="1408.43" ybr="324.94" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1421.33" ytl="117.32" xbr="1458.87" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1475.29" ytl="110.29" xbr="1509.31" ybr="322.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1517.52" ytl="122.02" xbr="1556.23" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1559.75" ytl="111.46" xbr="1599.63" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1607.84" ytl="117.32" xbr="1647.72" ybr="322.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.80" ytl="120.84" xbr="1698.16" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1705.20" ytl="139.61" xbr="1735.69" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1749.77" ytl="160.73" xbr="1784.96" ybr="328.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1797.86" ytl="180.67" xbr="1829.53" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1836.57" ytl="165.42" xbr="1883.49" ybr="336.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1894.05" ytl="168.94" xbr="1932.75" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1945.66" ytl="172.46" xbr="1974.98" ybr="347.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1993.75" ytl="173.63" xbr="2027.77" ybr="347.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2044.19" ytl="172.46" xbr="2078.21" ybr="363.65" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2092.28" ytl="165.42" xbr="2126.30" ybr="357.79" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2140.37" ytl="165.42" xbr="2168.53" ybr="343.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2183.77" ytl="153.69" xbr="2223.66" ybr="343.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2238.90" ytl="130.23" xbr="2269.40" ybr="348.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2282.30" ytl="133.75" xbr="2323.36" ybr="350.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2336.26" ytl="156.03" xbr="2366.76" ybr="331.98" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="image15.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="186.18" ytl="222.89" xbr="216.68" ybr="463.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="202.60" ytl="167.76" xbr="236.62" ybr="442.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="229.58" ytl="159.55" xbr="267.12" ybr="401.19" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="280.02" ytl="179.49" xbr="314.03" ybr="370.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="325.76" ytl="202.95" xbr="365.65" ybr="400.01" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="373.86" ytl="214.68" xbr="410.22" ybr="392.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="419.60" ytl="221.72" xbr="457.14" ybr="400.01" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="472.39" ytl="224.07" xbr="504.06" ybr="409.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="515.79" ytl="217.03" xbr="550.98" ybr="402.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="568.57" ytl="195.91" xbr="601.42" ybr="398.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="616.66" ytl="220.55" xbr="650.68" ybr="395.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="663.58" ytl="234.62" xbr="699.95" ybr="390.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="708.16" ytl="246.35" xbr="751.56" ybr="410.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="759.77" ytl="262.78" xbr="793.79" ybr="425.82" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="802.00" ytl="282.72" xbr="844.22" ybr="445.76" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="852.44" ytl="279.20" xbr="886.45" ybr="443.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="901.70" ytl="286.23" xbr="933.37" ybr="441.07" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="946.27" ytl="290.93" xbr="987.33" ybr="441.07" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="999.06" ytl="294.45" xbr="1035.42" ybr="432.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1045.98" ytl="294.45" xbr="1084.69" ybr="442.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1091.72" ytl="299.14" xbr="1128.09" ybr="443.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1140.99" ytl="287.41" xbr="1177.35" ybr="442.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1191.43" ytl="282.72" xbr="1220.75" ybr="426.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1236.00" ytl="340.19" xbr="1270.02" ybr="492.68" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1286.44" ytl="369.52" xbr="1316.94" ybr="509.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1335.71" ytl="361.31" xbr="1367.38" ybr="497.37" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1377.93" ytl="299.14" xbr="1409.60" ybr="496.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1424.85" ytl="294.45" xbr="1460.04" ybr="530.22" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1472.94" ytl="302.66" xbr="1518.69" ybr="504.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1523.38" ytl="287.41" xbr="1564.44" ybr="492.68" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1567.96" ytl="260.43" xbr="1610.18" ybr="457.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1618.39" ytl="232.28" xbr="1654.76" ybr="456.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.80" ytl="206.47" xbr="1708.71" ybr="453.97" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1713.41" ytl="206.47" xbr="1754.46" ybr="407.05" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1761.50" ytl="205.30" xbr="1801.38" ybr="450.45" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1809.59" ytl="208.82" xbr="1847.13" ybr="426.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="105.24" ytl="287.41" xbr="142.78" ybr="463.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1851.82" ytl="204.13" xbr="1890.53" ybr="437.55" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1890.53" ytl="201.78" xbr="1942.14" ybr="462.18" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1940.97" ytl="186.53" xbr="1980.85" ybr="466.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1986.71" ytl="199.43" xbr="2031.29" ybr="478.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2033.63" ytl="254.56" xbr="2065.30" ybr="463.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2079.38" ytl="262.78" xbr="2115.74" ybr="451.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2125.12" ytl="259.26" xbr="2163.83" ybr="439.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2172.04" ytl="246.35" xbr="2209.58" ybr="432.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2221.31" ytl="231.10" xbr="2258.85" ybr="432.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2270.57" ytl="209.99" xbr="2308.11" ybr="414.09" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2315.15" ytl="202.95" xbr="2355.03" ybr="375.38" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="65.36" ytl="397.67" xbr="93.51" ybr="632.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2365.59" ytl="202.95" xbr="2404.30" ybr="373.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="136.91" ytl="233.45" xbr="186.18" ybr="470.39" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="image16.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="613.15" ytl="126.71" xbr="643.64" ybr="312.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="31.34" ytl="175.97" xbr="68.88" ybr="327.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2358.55" ytl="179.49" xbr="2397.26" ybr="327.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2313.98" ytl="171.28" xbr="2355.03" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2265.88" ytl="184.19" xbr="2311.63" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2217.79" ytl="178.32" xbr="2257.67" ybr="337.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2170.87" ytl="158.38" xbr="2206.06" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2121.61" ytl="125.54" xbr="2159.14" ybr="321.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2074.69" ytl="151.34" xbr="2109.88" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2024.25" ytl="172.46" xbr="2062.96" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1978.50" ytl="186.53" xbr="2009.00" ybr="346.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1929.24" ytl="195.91" xbr="1960.91" ybr="342.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1878.80" ytl="191.22" xbr="1917.51" ybr="337.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1834.22" ytl="147.82" xbr="1867.07" ybr="349.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1782.61" ytl="180.67" xbr="1822.49" ybr="361.31" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1735.69" ytl="193.57" xbr="1770.88" ybr="361.31" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1685.25" ytl="193.57" xbr="1726.31" ybr="333.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1640.68" ytl="165.42" xbr="1672.35" ybr="356.61" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1590.24" ytl="144.30" xbr="1628.95" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1540.98" ytl="120.84" xbr="1574.99" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1494.06" ytl="122.02" xbr="1529.25" ybr="333.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1450.66" ytl="131.40" xbr="1476.46" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1399.05" ytl="132.57" xbr="1435.41" ybr="310.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1333.36" ytl="109.11" xbr="1380.28" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1288.79" ytl="113.81" xbr="1329.84" ybr="333.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1236.00" ytl="120.84" xbr="1287.61" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1189.08" ytl="186.53" xbr="1221.93" ybr="306.18" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1142.16" ytl="205.30" xbr="1178.53" ybr="322.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1090.55" ytl="214.68" xbr="1126.91" ybr="347.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1044.80" ytl="218.20" xbr="1076.48" ybr="346.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="995.54" ytl="209.99" xbr="1028.38" ybr="342.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="947.45" ytl="191.22" xbr="980.29" ybr="323.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="904.05" ytl="166.59" xbr="929.85" ybr="312.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="851.26" ytl="143.13" xbr="882.93" ybr="310.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="803.17" ytl="122.02" xbr="836.01" ybr="310.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="755.08" ytl="124.36" xbr="787.92" ybr="321.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="704.64" ytl="134.92" xbr="737.48" ybr="319.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="658.89" ytl="134.92" xbr="690.56" ybr="316.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="558.02" ytl="123.19" xbr="597.90" ybr="300.31" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="514.62" ytl="118.50" xbr="546.29" ybr="296.79" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="465.35" ytl="90.35" xbr="504.06" ybr="289.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="416.08" ytl="130.23" xbr="454.79" ybr="285.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="367.99" ytl="129.05" xbr="403.18" ybr="280.37" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="317.55" ytl="126.71" xbr="357.44" ybr="288.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="271.81" ytl="134.92" xbr="310.52" ybr="296.79" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="221.37" ytl="152.51" xbr="263.60" ybr="307.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="170.93" ytl="167.76" xbr="211.98" ybr="322.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="125.18" ytl="177.15" xbr="166.24" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="74.75" ytl="173.63" xbr="116.97" ybr="324.94" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="image17.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="2139.02" ytl="123.19" xbr="2179.73" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="24.53" ytl="223.63" xbr="73.39" ybr="372.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="76.10" ytl="222.27" xbr="118.17" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="127.67" ytl="212.77" xbr="165.67" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="176.53" ytl="205.98" xbr="217.25" ybr="375.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="228.11" ytl="201.91" xbr="268.82" ybr="372.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="274.25" ytl="201.91" xbr="313.61" ybr="375.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="323.11" ytl="215.48" xbr="358.39" ybr="372.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="369.25" ytl="223.63" xbr="404.54" ybr="390.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="416.75" ytl="230.41" xbr="453.40" ybr="386.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="469.68" ytl="243.98" xbr="506.33" ybr="390.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="510.40" ytl="227.70" xbr="553.83" ybr="391.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="560.61" ytl="220.91" xbr="599.97" ybr="395.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="604.04" ytl="214.13" xbr="648.83" ybr="394.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="652.90" ytl="215.48" xbr="693.62" ybr="394.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="693.62" ytl="196.48" xbr="742.48" ybr="395.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="743.83" ytl="193.77" xbr="775.05" ybr="364.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="791.34" ytl="199.20" xbr="827.98" ybr="378.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="844.27" ytl="178.84" xbr="874.12" ybr="363.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="882.27" ytl="184.27" xbr="927.05" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="935.20" ytl="205.98" xbr="971.84" ybr="364.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="984.05" ytl="201.91" xbr="1020.70" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1034.27" ytl="207.34" xbr="1070.91" ybr="364.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1083.13" ytl="199.20" xbr="1118.42" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1129.27" ytl="216.84" xbr="1165.92" ybr="382.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1176.77" ytl="238.56" xbr="1213.42" ybr="381.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1222.92" ytl="238.56" xbr="1263.63" ybr="389.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1275.85" ytl="233.13" xbr="1311.14" ybr="389.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1324.71" ytl="223.63" xbr="1358.64" ybr="374.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1370.85" ytl="219.55" xbr="1407.50" ybr="375.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1417.00" ytl="192.41" xbr="1456.35" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1469.93" ytl="188.34" xbr="1505.21" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1509.28" ytl="174.77" xbr="1550.00" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1560.86" ytl="158.48" xbr="1601.57" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1607.00" ytl="136.77" xbr="1651.79" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1659.93" ytl="128.62" xbr="1700.65" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1710.15" ytl="106.91" xbr="1741.36" ybr="330.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1753.58" ytl="102.84" xbr="1792.93" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1803.79" ytl="106.91" xbr="1841.79" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1851.29" ytl="115.05" xbr="1892.01" ybr="309.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1901.51" ytl="116.41" xbr="1942.22" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1950.37" ytl="94.69" xbr="1985.65" ybr="321.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1995.15" ytl="113.69" xbr="2037.23" ybr="314.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2046.73" ytl="109.62" xbr="2082.01" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2090.16" ytl="123.19" xbr="2129.52" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2190.59" ytl="127.27" xbr="2227.23" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2234.02" ytl="132.70" xbr="2273.38" ybr="300.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2285.59" ytl="139.48" xbr="2318.16" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2334.45" ytl="162.55" xbr="2368.38" ybr="313.20" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="image2.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="81.53" ytl="207.34" xbr="120.89" ybr="371.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="126.32" ytl="193.77" xbr="167.03" ybr="364.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="175.17" ytl="196.48" xbr="214.53" ybr="367.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="224.03" ytl="193.77" xbr="263.39" ybr="359.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="272.89" ytl="193.77" xbr="306.82" ybr="363.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="321.75" ytl="174.77" xbr="358.39" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="365.18" ytl="147.62" xbr="403.18" ybr="345.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="414.04" ytl="135.41" xbr="447.97" ybr="340.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="32.67" ytl="218.20" xbr="73.39" ybr="368.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="458.83" ytl="89.27" xbr="492.76" ybr="328.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="502.26" ytl="77.05" xbr="544.33" ybr="324.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="548.40" ytl="83.84" xbr="595.90" ybr="305.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="601.33" ytl="104.19" xbr="640.69" ybr="296.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="647.47" ytl="117.77" xbr="682.76" ybr="299.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="694.98" ytl="112.34" xbr="732.98" ybr="299.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="746.55" ytl="120.48" xbr="780.48" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="789.98" ytl="134.05" xbr="829.34" ybr="300.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="837.48" ytl="147.62" xbr="878.19" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="886.34" ytl="165.27" xbr="924.34" ybr="309.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="935.20" ytl="154.41" xbr="973.20" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="981.34" ytl="147.62" xbr="1016.63" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1030.20" ytl="155.77" xbr="1066.84" ybr="318.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1076.34" ytl="161.20" xbr="1110.27" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1121.13" ytl="167.98" xbr="1156.42" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1169.99" ytl="169.34" xbr="1202.56" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1216.13" ytl="165.27" xbr="1254.13" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1264.99" ytl="166.62" xbr="1300.28" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1307.06" ytl="170.70" xbr="1351.85" ybr="345.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1358.64" ytl="162.55" xbr="1396.64" ybr="347.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1400.71" ytl="146.27" xbr="1441.42" ybr="343.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1445.50" ytl="154.41" xbr="1480.78" ybr="328.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1493.00" ytl="123.19" xbr="1526.93" ybr="314.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1533.71" ytl="123.19" xbr="1579.86" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1583.93" ytl="119.12" xbr="1623.29" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1628.72" ytl="123.19" xbr="1673.50" ybr="284.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1678.93" ytl="123.19" xbr="1719.65" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1727.79" ytl="113.69" xbr="1764.43" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1767.15" ytl="121.84" xbr="1817.36" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1822.79" ytl="117.77" xbr="1862.15" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1867.58" ytl="121.84" xbr="1908.30" ybr="280.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1916.44" ytl="123.19" xbr="1953.08" ybr="287.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1959.87" ytl="121.84" xbr="2003.30" ybr="276.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2010.08" ytl="127.27" xbr="2048.08" ybr="276.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2060.30" ytl="128.62" xbr="2096.94" ybr="283.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2109.16" ytl="123.19" xbr="2137.66" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2148.52" ytl="128.62" xbr="2190.59" ybr="292.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2206.87" ytl="143.55" xbr="2234.02" ybr="287.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2247.59" ytl="147.62" xbr="2282.88" ybr="291.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2296.45" ytl="147.62" xbr="2329.02" ybr="305.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2342.59" ytl="142.20" xbr="2377.88" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2394.17" ytl="139.48" xbr="2422.67" ybr="310.49" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="image20.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="32.67" ytl="100.12" xbr="69.31" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="78.82" ytl="112.34" xbr="118.17" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="126.32" ytl="123.19" xbr="162.96" ybr="296.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="168.39" ytl="100.12" xbr="217.25" ybr="290.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="217.25" ytl="67.55" xbr="262.03" ybr="290.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="257.96" ytl="100.12" xbr="312.25" ybr="287.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="305.46" ytl="108.27" xbr="351.61" ybr="292.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="359.75" ytl="115.05" xbr="395.04" ybr="290.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="401.82" ytl="105.55" xbr="442.54" ybr="292.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="446.61" ytl="86.55" xbr="491.40" ybr="284.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="490.04" ytl="60.76" xbr="540.26" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="538.90" ytl="78.41" xbr="585.04" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="587.76" ytl="101.48" xbr="629.83" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="629.83" ytl="115.05" xbr="677.33" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="678.69" ytl="115.05" xbr="731.62" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="726.19" ytl="86.55" xbr="768.26" ybr="290.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="764.19" ytl="60.76" xbr="818.48" ybr="294.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="813.05" ytl="77.05" xbr="863.27" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="863.27" ytl="108.27" xbr="912.12" ybr="292.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="916.20" ytl="119.12" xbr="954.20" ybr="290.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="958.27" ytl="125.91" xbr="1008.48" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1003.06" ytl="115.05" xbr="1049.20" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1046.49" ytl="87.91" xbr="1096.70" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1092.63" ytl="104.19" xbr="1145.56" ybr="315.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1145.56" ytl="113.69" xbr="1187.63" ybr="315.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1186.27" ytl="100.12" xbr="1236.49" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1239.20" ytl="87.91" xbr="1279.92" ybr="341.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1279.92" ytl="77.05" xbr="1324.71" ybr="347.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1324.71" ytl="60.76" xbr="1374.92" ybr="356.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1378.99" ytl="117.77" xbr="1418.35" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1422.42" ytl="138.12" xbr="1468.57" ybr="347.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1475.35" ytl="176.12" xbr="1517.43" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1529.64" ytl="204.63" xbr="1555.43" ybr="379.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1570.36" ytl="211.41" xbr="1607.00" ybr="376.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1615.14" ytl="229.06" xbr="1651.79" ybr="394.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1662.65" ytl="229.06" xbr="1697.93" ybr="404.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1703.36" ytl="210.05" xbr="1746.79" ybr="402.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1756.29" ytl="178.84" xbr="1792.93" ybr="379.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1805.15" ytl="154.41" xbr="1837.72" ybr="383.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1855.36" ytl="120.48" xbr="1886.58" ybr="386.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1893.37" ytl="102.84" xbr="1938.15" ybr="385.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1938.15" ytl="51.26" xbr="1978.87" ybr="367.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1985.65" ytl="75.69" xbr="2030.44" ybr="368.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2030.44" ytl="104.19" xbr="2079.30" ybr="371.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2080.66" ytl="120.48" xbr="2124.09" ybr="345.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2124.09" ytl="117.77" xbr="2170.23" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2167.52" ytl="112.34" xbr="2215.02" ybr="329.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2217.73" ytl="63.48" xbr="2258.45" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2265.23" ytl="71.62" xbr="2310.02" ybr="302.34" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="image21.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="392.32" ytl="104.19" xbr="433.04" ybr="296.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="25.89" ytl="120.48" xbr="67.96" ybr="291.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="66.60" ytl="113.69" xbr="107.32" ybr="291.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="111.39" ytl="112.34" xbr="152.10" ybr="296.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="150.75" ytl="52.62" xbr="202.32" ybr="329.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="205.03" ytl="53.98" xbr="247.11" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="251.18" ytl="100.12" xbr="291.89" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="290.54" ytl="113.69" xbr="335.32" ybr="286.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="340.75" ytl="108.27" xbr="388.25" ybr="313.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="431.68" ytl="68.91" xbr="483.26" ybr="294.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="481.90" ytl="82.48" xbr="530.76" ybr="328.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="528.04" ytl="112.34" xbr="568.76" ybr="341.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="571.47" ytl="97.41" xbr="617.62" ybr="355.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="620.33" ytl="106.91" xbr="667.83" ybr="341.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="665.12" ytl="117.77" xbr="708.55" ybr="352.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="708.55" ytl="58.05" xbr="757.41" ybr="305.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="756.05" ytl="78.41" xbr="804.91" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="804.91" ytl="96.05" xbr="856.48" ybr="368.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="859.19" ytl="91.98" xbr="899.91" ybr="390.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="899.91" ytl="91.98" xbr="946.05" ybr="397.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="941.98" ytl="86.55" xbr="992.20" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="992.20" ytl="60.76" xbr="1035.63" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1042.41" ytl="86.55" xbr="1084.49" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1093.99" ytl="119.12" xbr="1126.56" ybr="300.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1138.77" ytl="129.98" xbr="1171.35" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1180.85" ytl="132.70" xbr="1217.49" ybr="328.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1224.28" ytl="136.77" xbr="1269.06" ybr="328.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1274.49" ytl="131.34" xbr="1311.14" ybr="321.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1327.42" ytl="117.77" xbr="1359.99" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1364.07" ytl="90.62" xbr="1406.14" ybr="305.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1406.14" ytl="87.91" xbr="1455.00" ybr="330.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1460.43" ytl="115.05" xbr="1498.43" ybr="340.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1502.50" ytl="104.19" xbr="1540.50" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1550.00" ytl="104.19" xbr="1590.71" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1589.36" ytl="72.98" xbr="1642.29" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1638.22" ytl="60.76" xbr="1685.72" ybr="341.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1684.36" ytl="74.34" xbr="1726.43" ybr="345.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1730.50" ytl="101.48" xbr="1771.22" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1780.72" ytl="97.41" xbr="1820.08" ybr="352.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1821.44" ytl="79.77" xbr="1862.15" ybr="367.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1866.22" ytl="82.48" xbr="1912.37" ybr="321.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1911.01" ytl="62.12" xbr="1959.87" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1959.87" ytl="100.12" xbr="2000.58" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2006.01" ytl="115.05" xbr="2054.87" ybr="333.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2057.58" ytl="124.55" xbr="2098.30" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2102.37" ytl="124.55" xbr="2139.02" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2145.80" ytl="128.62" xbr="2193.30" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2194.66" ytl="128.62" xbr="2234.02" ybr="315.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2240.80" ytl="140.84" xbr="2285.59" ybr="319.99" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="image22.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="63.89" ytl="158.48" xbr="104.60" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="23.17" ytl="176.12" xbr="58.46" ybr="329.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="118.17" ytl="146.27" xbr="152.10" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="165.67" ytl="121.84" xbr="207.75" ybr="318.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="210.46" ytl="125.91" xbr="252.53" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="260.68" ytl="129.98" xbr="297.32" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="310.89" ytl="132.70" xbr="347.54" ybr="318.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="355.68" ytl="110.98" xbr="395.04" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="404.54" ytl="93.34" xbr="446.61" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="450.68" ytl="77.05" xbr="495.47" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="499.54" ytl="129.98" xbr="542.97" ybr="325.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="553.83" ytl="123.19" xbr="586.40" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="602.69" ytl="131.34" xbr="635.26" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="647.47" ytl="138.12" xbr="684.12" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="697.69" ytl="132.70" xbr="731.62" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="750.62" ytl="128.62" xbr="781.83" ybr="330.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="799.48" ytl="132.70" xbr="827.98" ybr="325.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="845.62" ytl="154.41" xbr="878.19" ybr="330.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="889.05" ytl="158.48" xbr="931.12" ybr="330.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="944.70" ytl="167.98" xbr="975.91" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="988.13" ytl="151.70" xbr="1027.48" ybr="333.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1041.06" ytl="138.12" xbr="1069.56" ybr="319.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1079.06" ytl="120.48" xbr="1123.84" ybr="370.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1125.20" ytl="60.76" xbr="1171.35" ybr="393.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1178.13" ytl="155.77" xbr="1210.70" ybr="375.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1320.64" ytl="163.91" xbr="1358.64" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1368.14" ytl="150.34" xbr="1408.85" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1414.28" ytl="123.19" xbr="1453.64" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1467.21" ytl="132.70" xbr="1499.78" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1516.07" ytl="132.70" xbr="1547.28" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1566.29" ytl="124.55" xbr="1597.50" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1612.43" ytl="119.12" xbr="1646.36" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.29" ytl="109.62" xbr="1695.22" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1706.08" ytl="106.91" xbr="1746.79" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1756.29" ytl="113.69" xbr="1798.36" ybr="321.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1801.08" ytl="123.19" xbr="1840.44" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1855.36" ytl="129.98" xbr="1885.22" ybr="340.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1900.15" ytl="123.19" xbr="1936.80" ybr="319.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1950.37" ytl="125.91" xbr="1984.30" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1991.08" ytl="90.62" xbr="2035.87" ybr="325.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2039.94" ytl="120.48" xbr="2080.66" ybr="295.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2092.87" ytl="131.34" xbr="2130.87" ybr="305.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2144.44" ytl="125.91" xbr="2179.73" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2186.52" ytl="132.70" xbr="2229.95" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2243.52" ytl="106.91" xbr="2280.16" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2278.81" ytl="86.55" xbr="2333.09" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2333.09" ytl="102.84" xbr="2379.24" ybr="338.99" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="image23.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="2198.73" ytl="166.62" xbr="2234.02" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2243.52" ytl="173.41" xbr="2288.31" ybr="352.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2349.38" ytl="185.63" xbr="2387.38" ybr="366.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2300.52" ytl="176.12" xbr="2335.81" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="54.39" ytl="112.34" xbr="92.39" ybr="277.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="105.96" ytl="108.27" xbr="143.96" ybr="275.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="152.10" ytl="71.62" xbr="191.46" ybr="277.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="200.96" ytl="90.62" xbr="243.03" ybr="267.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="247.11" ytl="123.19" xbr="290.54" ybr="267.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="294.61" ytl="123.19" xbr="339.39" ybr="315.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="346.18" ytl="140.84" xbr="386.90" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="397.75" ytl="163.91" xbr="435.75" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="445.25" ytl="155.77" xbr="484.61" ybr="356.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="490.04" ytl="172.05" xbr="528.04" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="541.61" ytl="192.41" xbr="578.26" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="636.62" ytl="115.05" xbr="677.33" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="682.76" ytl="115.05" xbr="723.48" ybr="272.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="731.62" ytl="113.69" xbr="770.98" ybr="276.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="780.48" ytl="116.41" xbr="819.84" ybr="299.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="833.41" ytl="116.41" xbr="867.34" ybr="284.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="880.91" ytl="113.69" xbr="920.27" ybr="283.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="929.77" ytl="109.62" xbr="969.13" ybr="292.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="981.34" ytl="108.27" xbr="1019.34" ybr="284.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1028.84" ytl="116.41" xbr="1066.84" ybr="291.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1080.41" ytl="108.27" xbr="1117.06" ybr="300.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1125.20" ytl="113.69" xbr="1167.27" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1172.70" ytl="113.69" xbr="1212.06" ybr="291.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1224.28" ytl="121.84" xbr="1262.28" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1270.42" ytl="104.19" xbr="1305.71" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1317.92" ytl="81.12" xbr="1354.57" ybr="280.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1364.07" ytl="72.98" xbr="1408.85" ybr="262.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1418.35" ytl="68.91" xbr="1455.00" ybr="262.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1464.50" ytl="59.41" xbr="1506.57" ybr="287.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1517.43" ytl="63.48" xbr="1551.36" ybr="311.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1564.93" ytl="59.41" xbr="1601.57" ybr="234.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1609.72" ytl="47.19" xbr="1651.79" ybr="271.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.29" ytl="58.05" xbr="1697.93" ybr="269.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1708.79" ytl="70.26" xbr="1746.79" ybr="276.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1754.93" ytl="70.26" xbr="1798.36" ybr="280.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1807.86" ytl="83.84" xbr="1845.86" ybr="288.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1858.08" ytl="109.62" xbr="1893.37" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1911.01" ytl="100.12" xbr="1944.94" ybr="321.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1957.15" ytl="124.55" xbr="1988.37" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1999.23" ytl="135.41" xbr="2035.87" ybr="307.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2046.73" ytl="146.27" xbr="2084.73" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2096.94" ytl="154.41" xbr="2136.30" ybr="294.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2149.87" ytl="154.41" xbr="2185.16" ybr="317.27" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="image24.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="2353.45" ytl="197.84" xbr="2396.88" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2301.88" ytl="169.34" xbr="2346.66" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2255.73" ytl="151.70" xbr="2297.81" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2208.23" ytl="128.62" xbr="2247.59" ybr="309.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2158.02" ytl="121.84" xbr="2198.73" ybr="286.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2101.01" ytl="116.41" xbr="2153.94" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2056.23" ytl="116.41" xbr="2099.66" ybr="281.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2012.80" ytl="113.69" xbr="2046.73" ybr="313.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1962.58" ytl="113.69" xbr="1999.23" ybr="325.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1913.72" ytl="113.69" xbr="1951.72" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1868.94" ytl="127.27" xbr="1900.15" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1818.72" ytl="131.34" xbr="1852.65" ybr="325.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1767.15" ytl="123.19" xbr="1805.15" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1716.93" ytl="131.34" xbr="1757.65" ybr="306.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1670.79" ytl="136.77" xbr="1704.72" ybr="298.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1621.93" ytl="135.41" xbr="1659.93" ybr="302.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1573.07" ytl="121.84" xbr="1608.36" ybr="315.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1520.14" ytl="135.41" xbr="1560.86" ybr="324.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1475.35" ytl="134.05" xbr="1512.00" ybr="299.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1426.50" ytl="143.55" xbr="1463.14" ybr="303.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1372.21" ytl="148.98" xbr="1417.00" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1324.71" ytl="147.62" xbr="1364.07" ybr="324.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1279.92" ytl="139.48" xbr="1319.28" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1225.63" ytl="157.12" xbr="1269.06" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1179.49" ytl="146.27" xbr="1218.85" ybr="324.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1129.27" ytl="151.70" xbr="1169.99" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1080.41" ytl="177.48" xbr="1125.20" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1032.91" ytl="177.48" xbr="1072.27" ybr="337.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="988.13" ytl="180.20" xbr="1022.06" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="837.48" ytl="204.63" xbr="874.12" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="788.62" ytl="208.70" xbr="826.62" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="739.76" ytl="208.70" xbr="775.05" ybr="356.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="686.83" ytl="203.27" xbr="726.19" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="637.97" ytl="189.70" xbr="675.97" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="587.76" ytl="173.41" xbr="631.19" ybr="326.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="541.61" ytl="172.05" xbr="579.61" ybr="347.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="492.76" ytl="178.84" xbr="529.40" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="449.33" ytl="165.27" xbr="479.18" ybr="333.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="397.75" ytl="167.98" xbr="431.68" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="343.47" ytl="186.98" xbr="385.54" ybr="340.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="294.61" ytl="199.20" xbr="335.32" ybr="338.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="247.11" ytl="205.98" xbr="282.39" ybr="340.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="196.89" ytl="204.63" xbr="237.61" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="150.75" ytl="203.27" xbr="183.32" ybr="364.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="99.17" ytl="204.63" xbr="139.89" ybr="389.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="53.03" ytl="200.55" xbr="92.39" ybr="394.63" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="image25.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="1070.91" ytl="180.20" xbr="1111.63" ybr="363.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="47.60" ytl="233.13" xbr="95.10" ybr="389.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="105.96" ytl="235.84" xbr="139.89" ybr="386.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="148.03" ytl="218.20" xbr="191.46" ybr="386.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="200.96" ytl="219.55" xbr="249.82" ybr="390.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="253.89" ytl="215.48" xbr="300.04" ybr="395.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="310.89" ytl="201.91" xbr="351.61" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="365.18" ytl="200.55" xbr="396.40" ybr="355.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="409.97" ytl="177.48" xbr="446.61" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="456.11" ytl="165.27" xbr="492.76" ybr="349.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="500.90" ytl="143.55" xbr="537.54" ybr="322.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="553.83" ytl="138.12" xbr="585.04" ybr="317.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="595.90" ytl="142.20" xbr="635.26" ybr="313.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="648.83" ytl="138.12" xbr="680.05" ybr="310.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="688.19" ytl="132.70" xbr="730.26" ybr="313.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="738.41" ytl="119.12" xbr="777.76" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="791.34" ytl="135.41" xbr="825.26" ybr="332.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="837.48" ytl="148.98" xbr="872.77" ybr="334.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="876.84" ytl="155.77" xbr="918.91" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="922.98" ytl="166.62" xbr="967.77" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="977.27" ytl="184.27" xbr="1016.63" ybr="357.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1027.48" ytl="177.48" xbr="1061.41" ybr="355.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1123.84" ytl="177.48" xbr="1161.85" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1165.92" ytl="167.98" xbr="1210.70" ybr="348.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1216.13" ytl="142.20" xbr="1247.35" ybr="353.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1269.06" ytl="134.05" xbr="1300.28" ybr="319.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1309.78" ytl="132.70" xbr="1350.49" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1351.85" ytl="136.77" xbr="1396.64" ybr="362.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1407.50" ytl="177.48" xbr="1441.42" ybr="381.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1449.57" ytl="210.05" xbr="1490.28" ybr="398.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1497.07" ytl="227.70" xbr="1536.43" ybr="421.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1540.50" ytl="242.63" xbr="1590.71" ybr="442.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1586.64" ytl="248.06" xbr="1631.43" ybr="447.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1636.86" ytl="239.91" xbr="1681.65" ybr="457.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1689.79" ytl="218.20" xbr="1726.43" ybr="457.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1730.50" ytl="203.27" xbr="1775.29" ybr="459.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1782.08" ytl="195.13" xbr="1829.58" ybr="394.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1833.65" ytl="165.27" xbr="1882.51" ybr="420.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1878.44" ytl="151.70" xbr="1916.44" ybr="379.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1924.58" ytl="163.91" xbr="1961.23" ybr="368.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1972.08" ytl="154.41" xbr="2010.08" ybr="402.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2022.30" ytl="185.63" xbr="2060.30" ybr="419.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2064.37" ytl="199.20" xbr="2115.94" ybr="443.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2125.44" ytl="219.55" xbr="2159.37" ybr="435.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2163.45" ytl="223.63" xbr="2204.16" ybr="448.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2213.66" ytl="216.84" xbr="2254.38" ybr="444.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2259.80" ytl="204.63" xbr="2303.23" ybr="450.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2312.73" ytl="208.70" xbr="2345.31" ybr="391.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2357.52" ytl="191.05" xbr="2395.52" ybr="374.27" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="image26.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="66.60" ytl="170.70" xbr="103.24" ybr="359.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="24.53" ytl="174.77" xbr="54.39" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="115.46" ytl="166.62" xbr="150.75" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="161.60" ytl="158.48" xbr="199.60" ybr="344.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="210.46" ytl="151.70" xbr="245.75" ybr="336.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="255.25" ytl="165.27" xbr="295.96" ybr="329.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="305.46" ytl="172.05" xbr="344.82" ybr="359.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="352.97" ytl="177.48" xbr="389.61" ybr="352.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="397.75" ytl="177.48" xbr="438.47" ybr="370.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="442.54" ytl="177.48" xbr="483.26" ybr="355.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="494.11" ytl="180.20" xbr="533.47" ybr="359.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="542.97" ytl="185.63" xbr="586.40" ybr="359.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="587.76" ytl="185.63" xbr="635.26" ybr="356.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="637.97" ytl="191.05" xbr="681.40" ybr="368.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="685.47" ytl="181.55" xbr="726.19" ybr="383.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="730.26" ytl="180.20" xbr="772.33" ybr="391.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="776.41" ytl="186.98" xbr="819.84" ybr="381.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="830.69" ytl="182.91" xbr="865.98" ybr="402.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="874.12" ytl="196.48" xbr="916.20" ybr="433.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="924.34" ytl="193.77" xbr="965.05" ybr="408.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="973.20" ytl="197.84" xbr="1011.20" ybr="420.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1017.98" ytl="208.70" xbr="1058.70" ybr="424.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1068.20" ytl="205.98" xbr="1107.56" ybr="423.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1117.06" ytl="205.98" xbr="1153.70" ybr="424.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1165.92" ytl="201.91" xbr="1201.20" ybr="431.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1214.78" ytl="200.55" xbr="1243.28" ybr="444.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1259.56" ytl="192.41" xbr="1292.13" ybr="417.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1304.35" ytl="173.41" xbr="1346.42" ybr="420.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1351.85" ytl="241.27" xbr="1400.71" ybr="451.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1397.99" ytl="241.27" xbr="1442.78" ybr="447.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1452.28" ytl="229.06" xbr="1491.64" ybr="438.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1497.07" ytl="203.27" xbr="1539.14" ybr="424.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1551.36" ytl="185.63" xbr="1588.00" ybr="391.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1596.14" ytl="146.27" xbr="1635.50" ybr="378.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1640.93" ytl="125.91" xbr="1680.29" ybr="360.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1689.79" ytl="135.41" xbr="1729.15" ybr="351.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1734.58" ytl="157.12" xbr="1776.65" ybr="363.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1790.22" ytl="189.70" xbr="1820.08" ybr="376.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1835.01" ytl="205.98" xbr="1870.29" ybr="405.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1882.51" ytl="207.34" xbr="1915.08" ybr="405.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1934.08" ytl="201.91" xbr="1965.30" ybr="386.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1978.87" ytl="210.05" xbr="2020.94" ybr="425.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2026.37" ytl="201.91" xbr="2064.37" ybr="474.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2071.16" ytl="205.98" xbr="2113.23" ybr="440.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2120.02" ytl="200.55" xbr="2163.45" ybr="424.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2168.87" ytl="208.70" xbr="2209.59" ybr="424.49" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2215.02" ytl="212.77" xbr="2253.02" ybr="467.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2262.52" ytl="229.06" xbr="2301.88" ybr="477.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2310.02" ytl="238.56" xbr="2354.81" ybr="488.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2360.24" ytl="237.20" xbr="2400.95" ybr="462.49" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="image27.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="57.74" ytl="109.11" xbr="92.93" ybr="317.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="103.48" ytl="111.46" xbr="141.02" ybr="306.18" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="153.92" ytl="112.63" xbr="189.11" ybr="297.96" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="204.36" ytl="114.98" xbr="238.38" ybr="293.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="246.59" ytl="118.50" xbr="289.99" ybr="296.79" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="297.03" ytl="112.63" xbr="339.25" ybr="293.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="345.12" ytl="118.50" xbr="386.17" ybr="302.66" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="394.38" ytl="131.40" xbr="430.75" ybr="301.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="443.65" ytl="127.88" xbr="481.19" ybr="294.45" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="491.74" ytl="119.67" xbr="530.45" ybr="290.93" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="541.01" ytl="107.94" xbr="577.37" ybr="294.45" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="584.41" ytl="104.42" xbr="627.81" ybr="303.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="634.85" ytl="90.35" xbr="682.94" ybr="314.39" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="686.46" ytl="78.62" xbr="728.69" ybr="322.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="733.38" ytl="80.96" xbr="775.60" ybr="312.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="779.12" ytl="78.62" xbr="824.87" ybr="324.94" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="831.91" ytl="102.08" xbr="871.79" ybr="326.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="872.96" ytl="69.23" xbr="921.05" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="926.92" ytl="78.62" xbr="972.67" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="977.36" ytl="86.83" xbr="1023.10" ybr="324.94" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1025.45" ytl="86.83" xbr="1071.20" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1074.72" ytl="104.42" xbr="1120.46" ybr="329.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1120.46" ytl="119.67" xbr="1170.90" ybr="327.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1172.07" ytl="120.84" xbr="1218.99" ybr="328.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1222.51" ytl="123.19" xbr="1272.95" ybr="327.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1276.47" ytl="119.67" xbr="1319.87" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1321.04" ytl="122.02" xbr="1369.14" ybr="342.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1366.79" ytl="118.50" xbr="1412.54" ybr="351.92" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1412.54" ytl="118.50" xbr="1460.63" ybr="392.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1459.46" ytl="118.50" xbr="1505.20" ybr="369.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1513.41" ytl="117.32" xbr="1553.29" ybr="377.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1561.50" ytl="114.98" xbr="1600.21" ybr="374.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1602.56" ytl="96.21" xbr="1650.65" ybr="394.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1660.04" ytl="107.94" xbr="1695.23" ybr="405.88" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1695.23" ytl="105.59" xbr="1751.53" ybr="402.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1748.01" ytl="110.29" xbr="1797.28" ybr="408.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1796.10" ytl="111.46" xbr="1848.89" ybr="374.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1843.02" ytl="111.46" xbr="1894.63" ybr="373.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1896.98" ytl="103.25" xbr="1938.03" ybr="354.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1943.90" ytl="106.77" xbr="1988.47" ybr="362.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1987.30" ytl="97.38" xbr="2038.91" ybr="349.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2045.95" ytl="109.11" xbr="2089.35" ybr="360.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2088.18" ytl="92.69" xbr="2137.44" ybr="368.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2128.06" ytl="113.81" xbr="2176.15" ybr="373.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2178.50" ytl="78.62" xbr="2234.80" ybr="350.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2235.97" ytl="69.23" xbr="2279.37" ybr="381.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2282.89" ytl="66.89" xbr="2332.16" ybr="407.05" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2333.33" ytl="70.41" xbr="2379.08" ybr="373.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2383.77" ytl="64.54" xbr="2428.34" ybr="401.19" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="image28.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="20.20" ytl="166.59" xbr="56.56" ybr="407.05" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="58.91" ytl="154.86" xbr="109.35" ybr="394.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="109.35" ytl="154.86" xbr="157.44" ybr="398.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="157.44" ytl="161.90" xbr="200.84" ybr="382.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="210.23" ytl="137.27" xbr="245.41" ybr="388.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="254.80" ytl="129.05" xbr="295.85" ybr="381.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="293.51" ytl="149.00" xbr="347.46" ybr="384.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="349.81" ytl="152.51" xbr="394.38" ybr="384.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="400.25" ytl="152.51" xbr="441.30" ybr="392.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="444.82" ytl="163.07" xbr="487.05" ybr="390.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="498.78" ytl="144.30" xbr="537.49" ybr="387.11" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="538.66" ytl="152.51" xbr="580.89" ybr="400.01" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="596.14" ytl="140.78" xbr="627.81" ybr="418.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="646.58" ytl="134.92" xbr="674.73" ybr="423.47" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="685.28" ytl="126.71" xbr="727.51" ybr="422.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="740.41" ytl="130.23" xbr="772.09" ybr="424.65" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="783.82" ytl="130.23" xbr="819.00" ybr="414.09" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="830.73" ytl="126.71" xbr="868.27" ybr="422.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="884.69" ytl="124.36" xbr="919.88" ybr="430.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="935.13" ytl="116.15" xbr="963.28" ybr="444.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="977.36" ytl="119.67" xbr="1010.20" ybr="446.93" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1025.45" ytl="122.02" xbr="1060.64" ybr="472.74" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1075.89" ytl="113.81" xbr="1109.91" ybr="437.55" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1118.12" ytl="95.04" xbr="1158.00" ybr="410.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1160.34" ytl="110.29" xbr="1204.92" ybr="439.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1215.47" ytl="123.19" xbr="1258.87" ybr="439.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1265.91" ytl="111.46" xbr="1305.79" ybr="443.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1314.00" ytl="107.94" xbr="1351.54" ybr="435.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1364.44" ytl="116.15" xbr="1399.63" ybr="434.03" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1409.02" ytl="143.13" xbr="1452.42" ybr="442.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1460.63" ytl="136.09" xbr="1500.51" ybr="428.17" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1509.89" ytl="122.02" xbr="1548.60" ybr="431.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1550.95" ytl="122.02" xbr="1592.00" ybr="423.47" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1600.21" ytl="143.13" xbr="1635.40" ybr="430.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1640.10" ytl="146.65" xbr="1688.19" ybr="431.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1689.36" ytl="134.92" xbr="1731.59" ybr="430.51" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1744.49" ytl="126.71" xbr="1783.20" ybr="432.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1790.24" ytl="130.23" xbr="1828.95" ybr="424.65" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1839.50" ytl="137.27" xbr="1879.38" ybr="436.38" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1880.56" ytl="126.71" xbr="1934.51" ybr="439.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1941.55" ytl="131.40" xbr="1975.57" ybr="441.07" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1979.09" ytl="127.88" xbr="2022.49" ybr="444.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2033.05" ytl="127.88" xbr="2068.23" ybr="449.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2077.62" ytl="132.57" xbr="2111.64" ybr="456.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2123.37" ytl="141.96" xbr="2169.11" ybr="459.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2173.80" ytl="156.03" xbr="2217.20" ybr="471.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2225.41" ytl="117.32" xbr="2260.60" ybr="477.43" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2266.47" ytl="119.67" xbr="2316.91" ybr="446.93" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2325.12" ytl="132.57" xbr="2363.83" ybr="462.18" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="image29.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="23.72" ytl="118.50" xbr="53.05" ybr="337.85" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="61.26" ytl="120.84" xbr="97.62" ybr="354.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="104.66" ytl="110.29" xbr="150.40" ybr="341.37" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="159.79" ytl="113.81" xbr="193.80" ybr="319.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="204.36" ytl="110.29" xbr="245.41" ybr="310.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="259.49" ytl="117.32" xbr="287.64" ybr="299.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="302.89" ytl="113.81" xbr="338.08" ybr="312.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="349.81" ytl="104.42" xbr="385.00" ybr="307.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="392.04" ytl="102.08" xbr="446.00" ybr="308.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="453.03" ytl="104.42" xbr="491.74" ybr="342.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="494.09" ytl="109.11" xbr="539.83" ybr="358.96" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="546.87" ytl="104.42" xbr="590.27" ybr="339.02" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="602.00" ytl="95.04" xbr="639.54" ybr="320.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="648.92" ytl="90.35" xbr="686.46" ybr="315.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="694.67" ytl="71.58" xbr="731.03" ybr="302.66" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="740.41" ytl="55.16" xbr="786.16" ybr="295.62" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="844.81" ytl="140.78" xbr="884.69" ybr="347.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="891.73" ytl="149.00" xbr="930.44" ybr="353.09" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="941.00" ytl="147.82" xbr="980.88" ybr="334.33" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="990.26" ytl="149.00" xbr="1028.97" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1040.70" ytl="132.57" xbr="1075.89" ybr="330.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1084.10" ytl="137.27" xbr="1122.81" ybr="344.88" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1133.37" ytl="137.27" xbr="1173.25" ybr="341.37" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1182.63" ytl="137.27" xbr="1221.34" ybr="339.02" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1230.72" ytl="122.02" xbr="1268.26" ybr="319.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1276.47" ytl="112.63" xbr="1318.70" ybr="315.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1324.56" ytl="110.29" xbr="1366.79" ybr="319.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1375.00" ytl="114.98" xbr="1413.71" ybr="331.98" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1423.09" ytl="126.71" xbr="1459.46" ybr="336.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1470.01" ytl="119.67" xbr="1506.37" ybr="348.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1520.45" ytl="122.02" xbr="1556.81" ybr="335.50" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1567.37" ytl="119.67" xbr="1602.56" ybr="336.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1614.29" ytl="133.75" xbr="1650.65" ybr="321.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.21" ytl="149.00" xbr="1698.74" ybr="340.19" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1706.96" ytl="170.11" xbr="1751.53" ybr="350.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1757.39" ytl="179.49" xbr="1797.28" ybr="360.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1801.97" ytl="185.36" xbr="1844.19" ybr="346.06" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1852.41" ytl="165.42" xbr="1888.77" ybr="339.02" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1901.67" ytl="144.30" xbr="1943.90" ybr="336.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1948.59" ytl="157.21" xbr="1986.13" ybr="333.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1994.34" ytl="165.42" xbr="2028.35" ybr="321.42" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2037.74" ytl="172.46" xbr="2081.14" ybr="319.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2090.52" ytl="173.63" xbr="2123.37" ybr="358.96" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2133.92" ytl="164.24" xbr="2173.80" ybr="366.00" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2185.53" ytl="157.21" xbr="2224.24" ybr="357.79" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2234.80" ytl="158.38" xbr="2268.82" ybr="367.17" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2282.89" ytl="153.69" xbr="2315.73" ybr="362.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2328.64" ytl="158.38" xbr="2366.17" ybr="363.65" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="image3.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="67.15" ytl="128.94" xbr="101.98" ybr="299.33" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="27.01" ytl="124.40" xbr="56.55" ybr="324.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="116.37" ytl="126.67" xbr="148.94" ybr="312.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="164.08" ytl="119.10" xbr="196.64" ybr="337.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="212.55" ytl="116.83" xbr="243.60" ybr="319.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="258.74" ytl="127.43" xbr="292.06" ybr="315.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="304.18" ytl="127.43" xbr="339.01" ybr="315.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="354.16" ytl="136.52" xbr="384.45" ybr="315.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="401.87" ytl="141.82" xbr="430.64" ybr="316.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="447.30" ytl="152.42" xbr="477.60" ybr="326.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="494.26" ytl="159.23" xbr="525.30" ybr="331.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="542.72" ytl="181.20" xbr="572.26" ybr="332.65" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="593.46" ytl="201.64" xbr="618.45" ybr="343.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="637.38" ytl="219.82" xbr="666.92" ybr="359.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="683.58" ytl="216.79" xbr="714.62" ybr="373.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="728.26" ytl="222.85" xbr="765.36" ybr="382.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="775.96" ytl="218.30" xbr="813.07" ybr="384.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="819.89" ytl="247.08" xbr="850.94" ybr="394.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="863.81" ytl="254.65" xbr="900.16" ybr="405.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="913.79" ytl="253.14" xbr="945.60" ybr="407.62" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="961.50" ytl="257.68" xbr="995.58" ybr="400.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1009.21" ytl="262.22" xbr="1041.77" ybr="405.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1057.67" ytl="254.65" xbr="1091.75" ybr="404.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1106.14" ytl="249.35" xbr="1137.95" ybr="421.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1151.58" ytl="250.87" xbr="1186.41" ybr="415.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1198.53" ytl="239.51" xbr="1226.55" ybr="417.47" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1249.27" ytl="247.08" xbr="1277.29" ybr="415.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1296.22" ytl="248.59" xbr="1324.24" ybr="411.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1342.41" ytl="256.17" xbr="1374.97" ybr="427.31" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1388.61" ytl="254.65" xbr="1421.93" ybr="416.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1434.80" ytl="262.22" xbr="1471.15" ybr="409.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1484.02" ytl="243.29" xbr="1517.34" ybr="394.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1530.22" ytl="226.63" xbr="1562.78" ybr="411.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1581.71" ytl="206.94" xbr="1606.70" ybr="390.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1624.88" ytl="188.77" xbr="1652.90" ybr="431.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1671.83" ytl="186.50" xbr="1702.12" ybr="363.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1719.17" ytl="180.57" xbr="1752.47" ybr="358.44" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1768.24" ytl="171.81" xbr="1798.91" ybr="364.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1816.43" ytl="171.81" xbr="1847.97" ybr="318.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1863.75" ytl="180.57" xbr="1891.78" ybr="360.19" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1910.18" ytl="191.96" xbr="1938.22" ybr="333.90" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1954.87" ytl="187.58" xbr="1987.29" ybr="351.43" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2003.94" ytl="198.09" xbr="2035.48" ybr="355.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2050.38" ytl="210.36" xbr="2082.80" ybr="378.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2095.06" ytl="209.48" xbr="2128.36" ybr="387.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2146.76" ytl="212.11" xbr="2177.42" ybr="392.61" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2195.82" ytl="205.10" xbr="2223.86" ybr="389.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2241.39" ytl="209.48" xbr="2271.18" ybr="368.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2285.20" ytl="202.47" xbr="2321.12" ybr="348.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2335.14" ytl="180.57" xbr="2370.19" ybr="331.27" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="image30.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="1371.19" ytl="131.21" xbr="1410.57" ybr="310.69" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1422.68" ytl="133.49" xbr="1455.25" ybr="356.13" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1468.12" ytl="139.54" xbr="1503.71" ybr="340.22" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1518.10" ytl="134.24" xbr="1551.42" ybr="309.18" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1564.30" ytl="114.55" xbr="1602.16" ybr="316.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1616.55" ytl="97.14" xbr="1646.08" ybr="301.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1661.98" ytl="99.41" xbr="1696.82" ybr="287.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2337.77" ytl="147.27" xbr="2367.56" ybr="306.74" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2286.07" ytl="138.51" xbr="2321.12" ybr="305.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2233.50" ytl="135.88" xbr="2275.56" ybr="312.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2190.57" ytl="161.29" xbr="2224.74" ybr="310.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2141.50" ytl="150.78" xbr="2175.67" ybr="303.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2095.06" ytl="141.14" xbr="2126.61" ybr="303.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2048.62" ytl="135.88" xbr="2080.17" ybr="297.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1999.56" ytl="121.86" xbr="2031.98" ybr="295.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1952.24" ytl="129.75" xbr="1984.66" ybr="287.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1901.42" ytl="127.12" xbr="1936.47" ybr="299.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1852.35" ytl="135.01" xbr="1885.65" ybr="314.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1805.92" ytl="138.51" xbr="1837.46" ybr="299.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1756.85" ytl="134.13" xbr="1788.39" ybr="299.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1710.41" ytl="107.84" xbr="1743.71" ybr="285.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="32.31" ytl="131.21" xbr="66.39" ybr="359.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="78.51" ytl="150.90" xbr="114.86" ybr="353.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="129.25" ytl="153.18" xbr="161.05" ybr="353.86" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="176.95" ytl="143.33" xbr="211.79" ybr="323.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="226.18" ytl="120.61" xbr="256.47" ybr="323.56" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="274.64" ytl="147.12" xbr="308.72" ybr="314.48" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="321.60" ytl="150.90" xbr="359.46" ybr="344.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="369.30" ytl="138.79" xbr="404.14" ybr="334.17" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="417.77" ytl="135.76" xbr="455.63" ybr="338.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="466.99" ytl="133.49" xbr="498.04" ybr="328.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="512.43" ytl="106.22" xbr="552.57" ybr="337.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="559.38" ytl="127.43" xbr="598.00" ybr="319.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="607.85" ytl="147.12" xbr="644.95" ybr="337.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="660.10" ytl="155.45" xbr="691.15" ybr="359.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="704.78" ytl="141.82" xbr="741.13" ybr="347.04" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="755.52" ytl="135.00" xbr="788.08" ybr="331.89" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="806.26" ytl="106.98" xbr="835.03" ybr="325.08" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="853.96" ytl="144.09" xbr="885.77" ybr="330.38" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="898.64" ytl="138.79" xbr="935.75" ybr="331.89" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="946.35" ytl="138.79" xbr="980.43" ybr="315.23" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="995.58" ytl="137.27" xbr="1027.38" ybr="312.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1047.07" ytl="119.10" xbr="1072.82" ybr="312.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1084.94" ytl="104.71" xbr="1122.80" ybr="305.39" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1137.19" ytl="119.86" xbr="1169.75" ybr="307.66" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1179.60" ytl="127.43" xbr="1220.49" ybr="303.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1229.58" ytl="163.78" xbr="1262.90" ybr="331.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1275.01" ytl="157.72" xbr="1313.64" ybr="346.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1321.21" ytl="147.12" xbr="1361.34" ybr="320.54" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="image31.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="1561.27" ytl="134.24" xbr="1590.80" ybr="322.81" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="744.92" ytl="159.99" xbr="788.84" ybr="337.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="795.65" ytl="154.69" xbr="835.03" ybr="347.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="842.61" ytl="156.96" xbr="880.47" ybr="343.25" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="892.59" ytl="125.91" xbr="928.18" ybr="321.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="940.29" ytl="141.82" xbr="974.37" ybr="319.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="981.19" ytl="135.00" xbr="1024.35" ybr="313.72" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1033.44" ytl="141.82" xbr="1066.76" ybr="305.39" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1079.63" ytl="144.85" xbr="1120.53" ybr="309.93" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1131.13" ytl="130.46" xbr="1165.21" ybr="327.35" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1175.81" ytl="112.28" xbr="1211.40" ybr="315.99" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1222.76" ytl="122.88" xbr="1257.60" ybr="302.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1272.74" ytl="129.70" xbr="1306.06" ybr="309.93" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1317.42" ytl="119.86" xbr="1350.74" ybr="311.45" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1366.64" ytl="128.94" xbr="1398.45" ybr="316.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1418.14" ytl="127.43" xbr="1447.67" ybr="316.75" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1462.82" ytl="111.53" xbr="1496.14" ybr="309.18" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1509.01" ytl="137.27" xbr="1546.88" ybr="304.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="700.24" ytl="166.81" xbr="737.34" ybr="337.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1605.95" ytl="129.70" xbr="1638.51" ybr="312.21" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1654.41" ytl="108.50" xbr="1689.25" ybr="296.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1703.40" ytl="99.96" xbr="1743.71" ybr="291.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1752.47" ytl="66.66" xbr="1792.77" ybr="291.84" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1798.91" ytl="65.79" xbr="1837.46" ybr="285.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1854.98" ytl="109.60" xbr="1888.28" ybr="277.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1900.55" ytl="123.61" xbr="1934.72" ybr="276.95" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1953.99" ytl="146.40" xbr="1979.40" ybr="304.11" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1998.68" ytl="156.03" xbr="2028.47" ybr="286.59" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2045.99" ytl="130.62" xbr="2076.66" ybr="277.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2091.56" ytl="135.88" xbr="2123.98" ybr="285.71" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2140.62" ytl="157.79" xbr="2176.55" ybr="294.47" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2190.57" ytl="149.02" xbr="2219.48" ybr="299.73" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2237.88" ytl="141.14" xbr="2268.55" ybr="281.33" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2284.32" ytl="135.88" xbr="2317.62" ybr="288.34" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2335.14" ytl="129.75" xbr="2361.43" ybr="272.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="41.40" ytl="74.42" xbr="70.93" ybr="337.20" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="81.54" ytl="111.53" xbr="116.37" ybr="292.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="131.52" ytl="125.16" xbr="161.81" ybr="286.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="178.47" ytl="125.16" xbr="211.79" ybr="297.82" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="226.94" ytl="134.24" xbr="254.20" ybr="302.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="272.37" ytl="112.28" xbr="307.21" ybr="279.64" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="322.35" ytl="109.25" xbr="356.43" ybr="276.61" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="367.79" ytl="119.86" xbr="398.84" ybr="266.77" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="417.01" ytl="131.21" xbr="450.33" ybr="282.67" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="462.45" ytl="127.43" xbr="497.28" ybr="281.91" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="512.43" ytl="138.79" xbr="544.24" ybr="292.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="561.65" ytl="142.57" xbr="591.95" ybr="304.63" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="604.82" ytl="141.82" xbr="640.41" ybr="297.82" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="651.77" ytl="166.81" xbr="687.36" ybr="306.90" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="image34.png" width="2445" height="1485">
+    <box label="rebar" source="manual" occluded="0" xtl="2100.99" ytl="224.73" xbr="2136.10" ybr="387.97" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2148.38" ytl="205.42" xbr="2185.24" ybr="377.44" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2197.53" ytl="180.85" xbr="2232.64" ybr="352.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2244.93" ytl="156.27" xbr="2287.05" ybr="340.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2295.83" ytl="128.19" xbr="2332.69" ybr="330.05" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2343.22" ytl="143.98" xbr="2381.84" ybr="328.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2394.13" ytl="122.92" xbr="2425.72" ybr="328.29" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="637.38" ytl="198.61" xbr="669.95" ybr="364.46" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="588.92" ytl="210.73" xbr="622.24" ybr="374.30" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="536.66" ytl="208.46" xbr="571.50" ybr="380.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="487.44" ytl="207.70" xbr="522.28" ybr="384.15" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="435.19" ytl="196.34" xbr="476.84" ybr="368.24" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="388.24" ytl="175.89" xbr="427.61" ybr="349.31" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="342.04" ytl="168.32" xbr="377.63" ybr="346.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="292.82" ytl="166.05" xbr="329.93" ybr="333.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="245.11" ytl="167.56" xbr="279.94" ybr="333.41" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="191.34" ytl="150.15" xbr="229.21" ybr="318.26" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="149.69" ytl="135.76" xbr="183.77" ybr="324.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="105.01" ytl="113.04" xbr="144.39" ybr="324.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="24.74" ytl="153.18" xbr="48.97" ybr="320.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="56.55" ytl="117.58" xbr="97.44" ybr="303.12" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1707.80" ytl="177.33" xbr="1746.41" ybr="321.27" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="682.82" ytl="183.47" xbr="720.68" ybr="345.53" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="734.31" ytl="163.02" xbr="770.66" ybr="324.32" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="780.51" ytl="133.49" xbr="819.89" ybr="298.57" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="830.49" ytl="125.16" xbr="869.87" ybr="285.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="882.74" ytl="118.34" xbr="914.55" ybr="284.19" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="933.48" ytl="113.04" xbr="963.01" ybr="273.58" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="982.70" ytl="128.19" xbr="1010.72" ybr="285.70" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1027.38" ytl="110.01" xbr="1059.95" ybr="272.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1073.58" ytl="115.31" xbr="1110.68" ybr="268.28" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1125.83" ytl="107.74" xbr="1163.69" ybr="275.10" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1178.08" ytl="122.13" xbr="1203.83" ybr="277.37" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1222.76" ytl="119.86" xbr="1256.08" ybr="287.97" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1268.20" ytl="127.43" xbr="1311.36" ybr="287.97" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1323.48" ytl="129.70" xbr="1351.50" ybr="295.54" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1363.62" ytl="127.43" xbr="1404.51" ybr="294.03" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1420.41" ytl="140.30" xbr="1446.16" ybr="292.52" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1466.61" ytl="133.49" xbr="1502.20" ybr="301.60" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1515.83" ytl="153.18" xbr="1551.42" ybr="303.87" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1567.32" ytl="166.81" xbr="1596.86" ybr="318.26" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1611.25" ytl="174.38" xbr="1642.30" ybr="331.14" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1665.01" ytl="169.84" xbr="1698.33" ybr="350.83" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1758.70" ytl="189.62" xbr="1793.81" ybr="324.78" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1804.34" ytl="166.80" xbr="1844.71" ybr="349.36" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1849.98" ytl="172.07" xbr="1888.60" ybr="331.80" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1900.88" ytl="156.27" xbr="1939.50" ybr="310.74" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="1953.54" ytl="207.18" xbr="1988.65" ybr="363.40" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2004.45" ytl="219.46" xbr="2037.80" ybr="386.22" z_order="0">
+    </box>
+    <box label="rebar" source="manual" occluded="0" xtl="2051.84" ytl="228.24" xbr="2090.46" ybr="389.73" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="image35.png" width="2445" height="1485">
+  </image>
+  <image id="22" name="image38.png" width="2445" height="1485">
+  </image>
+  <image id="23" name="image39.png" width="2445" height="1485">
+  </image>
+  <image id="24" name="image4.png" width="2445" height="1485">
+  </image>
+  <image id="25" name="image40.png" width="2445" height="1485">
+  </image>
+  <image id="26" name="image41.png" width="2445" height="1485">
+  </image>
+  <image id="27" name="image42.png" width="2445" height="1485">
+  </image>
+  <image id="28" name="image43.png" width="2445" height="1485">
+  </image>
+  <image id="29" name="image44.png" width="2445" height="1485">
+  </image>
+  <image id="30" name="image46.png" width="2445" height="1485">
+  </image>
+  <image id="31" name="image47.png" width="2445" height="1485">
+  </image>
+  <image id="32" name="image48.png" width="2445" height="1485">
+  </image>
+  <image id="33" name="image5.png" width="2445" height="1485">
+  </image>
+  <image id="34" name="image50.png" width="2445" height="1485">
+  </image>
+  <image id="35" name="image51.png" width="2445" height="1485">
+  </image>
+  <image id="36" name="image52.png" width="2445" height="1485">
+  </image>
+  <image id="37" name="image53.png" width="2445" height="1485">
+  </image>
+  <image id="38" name="image54.png" width="2445" height="1485">
+  </image>
+  <image id="39" name="image56.png" width="2445" height="1485">
+  </image>
+  <image id="40" name="image57.png" width="2445" height="1485">
+  </image>
+  <image id="41" name="image58.png" width="2445" height="1485">
+  </image>
+  <image id="42" name="image59.png" width="2445" height="1485">
+  </image>
+  <image id="43" name="image6.png" width="2445" height="1485">
+  </image>
+  <image id="44" name="image60.png" width="2445" height="1485">
+  </image>
+  <image id="45" name="image61.png" width="2445" height="1485">
+  </image>
+  <image id="46" name="image7.png" width="2445" height="1485">
+  </image>
+  <image id="47" name="image8.png" width="2445" height="1485">
+  </image>
+</annotations>

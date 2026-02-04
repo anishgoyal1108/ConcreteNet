@@ -1,0 +1,10 @@
+# YOLOv8 Dataset Configuration for GP8000 GPR Images
+# Rebar detection in GP8000 format (dark/faded spike patterns)
+
+path: data/GP8000
+train: images/train
+val: images/val
+
+# Class names
+names:
+  0: rebar

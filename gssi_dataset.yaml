@@ -1,0 +1,10 @@
+# YOLOv8 Dataset Configuration for GSSI GPR Images
+# Rebar detection in GSSI format (hyperbolic signatures)
+
+path: data/GSSI
+train: images/train
+val: images/val
+
+# Class names
+names:
+  0: rebar

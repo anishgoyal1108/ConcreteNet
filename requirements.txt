@@ -1,0 +1,23 @@
+# ConcreteNet - Rebar Detection Dependencies
+
+# Image processing
+Pillow>=9.0.0
+
+# YOLOv8 for object detection
+ultralytics>=8.0.0
+
+# Annotation tool
+labelImg>=1.8.6
+
+# GUI
+PyQt6>=6.4.0
+
+# Interpolation for contour maps
+scipy>=1.10.0
+
+# Additional utilities (included with ultralytics but listed for clarity)
+numpy>=1.23.0
+opencv-python>=4.6.0
+torch>=1.13.0
+torchvision>=0.14.0
+matplotlib>=3.6.0
