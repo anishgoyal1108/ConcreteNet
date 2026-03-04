@@ -4,6 +4,12 @@
 import sys
 from pathlib import Path
 
+# Import PyTorch/ultralytics BEFORE PyQt6 to avoid compatibility issues
+try:
+    import torch  # noqa: F401
+except ImportError:
+    pass
+
 from PyQt6.QtWidgets import QApplication
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QFont
