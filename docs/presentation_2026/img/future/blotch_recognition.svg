@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="serif">
+  <defs>
+    <marker id="arrHead" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#C9A84C"/>
+    </marker>
+    <radialGradient id="blotchGrad" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"  stop-color="#0D1B2A" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#0D1B2A" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0D1B2A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scanTexture" x="0" y="0" width="6" height="6"
+             patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#E5E7EB"/>
+      <line x1="0" y1="3" x2="6" y2="3" stroke="#C7CED8" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- LEFT panel: Now -->
+  <text x="195" y="38" text-anchor="middle"
+        fill="#1B3A5C" font-size="24" font-weight="bold">Now</text>
+  <rect x="45" y="65" width="300" height="210"
+        fill="url(#scanTexture)" stroke="#1B3A5C" stroke-width="1.5"/>
+  <g stroke="#1B3A5C" stroke-width="1" fill="none">
+    <path d="M 65 110 Q 80 88 95 110"/>
+    <path d="M 115 110 Q 130 88 145 110"/>
+    <path d="M 165 110 Q 180 88 195 110"/>
+    <path d="M 215 110 Q 230 88 245 110"/>
+    <path d="M 265 110 Q 280 88 295 110"/>
+    <path d="M 315 110 Q 330 88 345 110"/>
+  </g>
+  <ellipse cx="195" cy="200" rx="55" ry="35" fill="url(#blotchGrad)"/>
+  <text x="195" y="305" text-anchor="middle"
+        fill="#6B7A8D" font-size="14">dark blotch — unclassified anomaly</text>
+
+  <!-- ARROW between panels -->
+  <line x1="370" y1="170" x2="520" y2="170"
+        stroke="#C9A84C" stroke-width="3.5" marker-end="url(#arrHead)"/>
+
+  <!-- RIGHT panel: Goal -->
+  <text x="705" y="38" text-anchor="middle"
+        fill="#1B3A5C" font-size="24" font-weight="bold">Goal</text>
+  <rect x="555" y="65" width="300" height="210"
+        fill="url(#scanTexture)" stroke="#1B3A5C" stroke-width="1.5"/>
+  <g stroke="#1B3A5C" stroke-width="1" fill="none">
+    <path d="M 575 110 Q 590 88 605 110"/>
+    <path d="M 625 110 Q 640 88 655 110"/>
+    <path d="M 675 110 Q 690 88 705 110"/>
+    <path d="M 725 110 Q 740 88 755 110"/>
+    <path d="M 775 110 Q 790 88 805 110"/>
+    <path d="M 825 110 Q 840 88 855 110"/>
+  </g>
+  <ellipse cx="705" cy="200" rx="55" ry="35" fill="url(#blotchGrad)"/>
+  <!-- red bounding box -->
+  <rect x="640" y="160" width="130" height="82"
+        fill="none" stroke="#DC2626" stroke-width="3"/>
+  <rect x="640" y="143" width="92" height="17" fill="#DC2626"/>
+  <text x="686" y="156" text-anchor="middle"
+        fill="white" font-size="12" font-weight="bold">void 0.87</text>
+  <text x="705" y="305" text-anchor="middle"
+        fill="#6B7A8D" font-size="14">classified defect with bounding box</text>
+</svg>

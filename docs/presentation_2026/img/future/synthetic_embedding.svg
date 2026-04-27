@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" font-family="serif">
+  <defs>
+    <marker id="arrHead2" viewBox="0 0 10 10" refX="8" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#C9A84C"/>
+    </marker>
+    <radialGradient id="blotchGrad2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"  stop-color="#0D1B2A" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#0D1B2A" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0D1B2A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scanTex2" x="0" y="0" width="6" height="6"
+             patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#E5E7EB"/>
+      <line x1="0" y1="3" x2="6" y2="3" stroke="#C7CED8" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Panel 1: clean B-scan -->
+  <text x="170" y="40" text-anchor="middle"
+        fill="#1B3A5C" font-size="20" font-weight="bold">Healthy B-scan</text>
+  <rect x="30" y="70" width="280" height="180"
+        fill="url(#scanTex2)" stroke="#1B3A5C" stroke-width="1.5"/>
+  <g stroke="#1B3A5C" stroke-width="1" fill="none">
+    <path d="M 50 115 Q 65 95 80 115"/>
+    <path d="M 100 115 Q 115 95 130 115"/>
+    <path d="M 150 115 Q 165 95 180 115"/>
+    <path d="M 200 115 Q 215 95 230 115"/>
+    <path d="M 250 115 Q 265 95 280 115"/>
+  </g>
+  <text x="170" y="280" text-anchor="middle"
+        fill="#6B7A8D" font-size="13">ERB scan with rebar only</text>
+
+  <!-- plus sign -->
+  <text x="355" y="175" text-anchor="middle"
+        fill="#C9A84C" font-size="44" font-weight="bold">+</text>
+
+  <!-- Panel 2: defect template -->
+  <text x="510" y="40" text-anchor="middle"
+        fill="#1B3A5C" font-size="20" font-weight="bold">Defect template</text>
+  <rect x="400" y="70" width="220" height="180"
+        fill="url(#scanTex2)" stroke="#1B3A5C" stroke-width="1.5"/>
+  <ellipse cx="510" cy="160" rx="65" ry="40" fill="url(#blotchGrad2)"/>
+  <text x="510" y="280" text-anchor="middle"
+        fill="#6B7A8D" font-size="13">lab / thesis-extracted defect</text>
+
+  <!-- arrow -->
+  <line x1="650" y1="165" x2="790" y2="165"
+        stroke="#C9A84C" stroke-width="3.5" marker-end="url(#arrHead2)"/>
+  <text x="720" y="150" text-anchor="middle"
+        fill="#6B7A8D" font-size="12" font-style="italic">blend at depth 2–5 in.</text>
+
+  <!-- Panel 3: synthetic training image -->
+  <text x="960" y="40" text-anchor="middle"
+        fill="#1B3A5C" font-size="20" font-weight="bold">Synthetic training image</text>
+  <rect x="820" y="70" width="280" height="180"
+        fill="url(#scanTex2)" stroke="#1B3A5C" stroke-width="1.5"/>
+  <g stroke="#1B3A5C" stroke-width="1" fill="none">
+    <path d="M 840 115 Q 855 95 870 115"/>
+    <path d="M 890 115 Q 905 95 920 115"/>
+    <path d="M 940 115 Q 955 95 970 115"/>
+    <path d="M 990 115 Q 1005 95 1020 115"/>
+    <path d="M 1040 115 Q 1055 95 1070 115"/>
+  </g>
+  <ellipse cx="940" cy="185" rx="50" ry="32" fill="url(#blotchGrad2)"/>
+  <rect x="880" y="150" width="120" height="75"
+        fill="none" stroke="#DC2626" stroke-width="3"/>
+  <rect x="880" y="135" width="86" height="16" fill="#DC2626"/>
+  <text x="923" y="147" text-anchor="middle"
+        fill="white" font-size="11" font-weight="bold">void 0.93</text>
+  <text x="960" y="280" text-anchor="middle"
+        fill="#6B7A8D" font-size="13">labeled, ready for fine-tuning</text>
+</svg>
