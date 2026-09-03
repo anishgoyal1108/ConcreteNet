@@ -168,16 +168,22 @@ If you've just cloned the repo and need to recreate the dataset structure and tr
    python import_cvat_annotations.py --annotations annotations.xml --images data/GP8000/images --output data/GP8000 --split 0.8
    ```
 
-3. **Train the model**:
-   ```bash
-   python train_models.py --model gp8000
-   ```
-   Trained weights are saved to `runs/detect/gp8000_rebar/weights/best.pt`. The desktop app and `detect_rebars.py` expect this path.
+3. **Train the models** (see [Training](#training-rebar-detection-models) below). Trained weights are saved to `runs/detect/gp8000_rebar/weights/best.pt`; the desktop app and `detect_rebars.py` expect this path.
 
-   To train both GP8000 and GSSI:
-   ```bash
-   python train_models.py --model both
-   ```
+### Annotating New Images
+
+To add new images to the dataset, annotate them with bounding boxes first. See [ANNOTATION_GUIDE.md](ANNOTATION_GUIDE.md) for detailed instructions.
+
+```bash
+# Install annotation tool
+pip install labelImg
+
+# Annotate GP8000 images
+labelimg data/GP8000/images/train data/GP8000/labels/train
+
+# Annotate GSSI images
+labelimg data/GSSI/images/train data/GSSI/labels/train
+```
 
 ### Training Rebar Detection Models
 
